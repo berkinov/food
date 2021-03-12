@@ -162,7 +162,6 @@ addCart.addEventListener("click", function() {
 receiptBtn.addEventListener("click", function() {
     location.reload()
 })
-console.log(window);
 
 const productImg = document.querySelectorAll('.main__product-info');
 const view = document.querySelector('.view');
